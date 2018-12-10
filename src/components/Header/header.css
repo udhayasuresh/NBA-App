@@ -1,0 +1,14 @@
+.header {
+    margin: 0;
+    padding: 5px;
+    background: #d2d2dd;
+}
+.logo{
+    margin-left: 20px;
+    height: 12px;
+}
+.bars{
+    height: 0px;
+    padding:0px;
+    cursor: pointer;
+}
